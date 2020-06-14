@@ -1,0 +1,11 @@
+eagle.epf
+*/eagle.epf
+.DS_Store
+*/.DS_Store
+*.b#*
+*/*.b#*
+*.s#*
+*/*.s#*
+dxfimp.scr
+*/dxfimp.scr
+

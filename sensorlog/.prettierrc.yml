@@ -1,0 +1,9 @@
+useTabs: true
+
+overrides:
+  - files:
+      - "*.md"
+      - "*.yml"
+    options:
+      useTabs: false
+      proseWrap: always
